@@ -43,7 +43,7 @@ Il est toujours préférable de discuter de vos plans à l'avance, afin de s'ass
 - Au fur et à mesure que vous poussez vos modifications, mettez à jour la demande d'extraction avec de nouvelles informations et tâches au fur et à mesure que vous les terminez
 - Les mainteneurs du projet peuvent commenter votre travail au fur et à mesure de votre progression
 - Lorsque vous avez terminé, supprimez l'étiquette `work in progress` et envoyez un ping aux responsables pour une revue
-- Votre pull request doit recevoir un👍d'un [mainteneur](MAINTAINERS)
+- Votre pull request doit recevoir un👍d'un mainteneur
 
 
 Merci pour vos contributions !
